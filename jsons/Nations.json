@@ -1,32 +1,32 @@
 [
 	{
-		"name": "LB Andres del orbe",
-		"leaderName": "Amilcar",
-		"adjective": ["estudiante"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Cultural",
+		"name": "The Stelarate",
+		"leaderName": "J99 the third",
+		"adjective": ["Stelar"],
+		"startBias": ["hill"],
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "llevaremos educacion a tu incivilizado ser",
-		"attacked": "Aceptamos tu reto",
-		"defeated": "Espero al menos haber traido sabiduria durante mi estancia",
-		"introduction": "Bienvenido al LB Andres del orbe",
+		"declaringWar": "By the will of the stars, i must destroy your evilness",
+		"attacked": "We accept your challenge",
+		"defeated" : "I hope my nation will be remembered as the one who reached the skies"
+		"introduction": "I am J99, lord of the stelars, who are you?",
 		
-		"neutralHello": "Buenas Tardes",
+		"neutralHello": "Welcome to my palace",
 		
 		
 
-		"hateHello": "Buenas Noches",
+		"hateHello": "I was waiting for you",
 		
 		
-		"tradeRequest": "Ojala este intercambio sea de beneficio mutuo",
+		"tradeRequest": "This offer is one in a lifetime, my friend",
 
 		"outerColor": [4,53,102],
-		"innerColor": [209,178,2],
-		"unique": "Ministerio del Poder Popular para la Educacion",
-		"cities": ["La Direccion","La plaza","1ro A","1ro B","1ro C","2do A"," 2do B"," 2do C","3ro A","3ro B",
-			"3ro C","4to A","4to B","4to C","5to A","5to B","5to C",
+		"innerColor": [255,255,255],
+		"unique": "Per Aspera Ad Astra",
+		"cities": ["Iknotouilya","Oriona","Gemina","Tauris","Aquar","Scorpia","Sagitarum"," Ariem","Libra","Leonia",
+			"Piscia","Astripolis","idktowritehere","Vouno","Neominae","mestoycansandodeesto","Athina Nova"],
 	}
 ]
